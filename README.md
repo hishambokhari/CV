@@ -51,7 +51,7 @@ I am a highly resilient person, particularly demonstrated in my experiences and 
 #### Fitness Cartel (June '18 - Sep 2019)
 Director
 
-Set up and ran a fitness enterprise engaging diverse communities, overseeing the **strategic vision** with specific responsibility for **management**, **accounts**, **operations** and **client feedback**. [Here is a link to my start ups Instagram page which was the primary source or marketing for the brand.](https://www.instagram.com/fitnesscartel_fc/?hl=en)
+Set up and ran a fitness enterprise engaging diverse communities, overseeing the **strategic vision** with specific responsibility for **management**, **accounts**, **operations** and **client feedback**. [Here is a link to my start up (Instagram) page which was the primary source or marketing for the brand.](https://www.instagram.com/fitnesscartel_fc/?hl=en)
 
 #### House of Habib (Oct 2017 - May 2018)
 Financial Analyst
