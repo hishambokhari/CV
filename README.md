@@ -27,9 +27,14 @@ I want to bring my unique skill set, drive and commitment to a workplace with co
 # Projects
 | Title | Description | Development Time-frame | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
+<<<<<<< HEAD
 | **Moovli** [Heroku site](https://moovli.herokuapp.com/) [Github](https://github.com:AndreaDiotallevi/moovli.git) | A film suggestion app that allows you to find the best films across the world. Moovli allows users to interact with a map and click on a country and see some of the best films available. Created by a team of 4 with little to no previous experience of the tech stack. | 10 days | React, ESlint, Python | Jest & Enzyme |
 | **Boris Bikes** [Github](https://github.com/hishambokhari/boris-bikes) | Command Line App simulating a boris bike, a docking station and their interactions. This was my first project in Makers where I learned TDD/BDD and how to approach a task in an agile way. | 1 week |Ruby | RSpec, SimpleCov, Rubocop |
 | **MakersBnb** [Github](https://github.com/EManifold/makersBnb-team6) | A full-stack application where you can authenticate, list & book spaces and request & refuse requests for a certain date. | 2 week |Ruby, Sinatra, JQuery, Active Record  | RSpec, Capybara |
+=======
+| **Moovli** [Heroku site](https://moovli.herokuapp.com/) [Github](https://github.com:AndreaDiotallevi/moovli.git) | A film suggestion app that allows you to find the best films across the world. Moovli allows users to interact with a map and click on a country and see some of the best films available. Created by a team of 4 with little to no previous experience of the tech stack. | 10 days | Jest, Enzyme, ESlint, Python, React |
+| **Boris Bikes** [Github](https://https://github.com/hishambokhari/boris-bikes) | Command Line App simulating a boris bike, a docking station and their interactions. This was my first project in Makers where I learned TDD/BDD and how to approach a task in an agile way. | 1 week |Ruby, RSpec(testing), SimpleCov(testing coverage), Rubocop(formatting errors).  |
+>>>>>>> 4852c15f6980b6576fc767518514d53a03a235e4
 
 
 # Skills and qualities
@@ -52,7 +57,7 @@ I am a highly resilient person, particularly demonstrated in my experiences and 
 #### Fitness Cartel (June '18 - Sep 2019)
 Director
 
-Set up and ran a fitness enterprise engaging diverse communities, overseeing the **strategic vision** with specific responsibility for **management**, **accounts**, **operations** and **client feedback**. [Here is a link to my start ups Instagram page which was the primary source or marketing for the brand.](https://www.instagram.com/fitnesscartel_fc/?hl=en)
+Set up and ran a fitness enterprise engaging diverse communities, overseeing the **strategic vision** with specific responsibility for **management**, **accounts**, **operations** and **client feedback**. [Here is a link to my start up (Instagram) page which was the primary source or marketing for the brand.](https://www.instagram.com/fitnesscartel_fc/?hl=en)
 
 #### House of Habib (Oct 2017 - May 2018)
 Financial Analyst
