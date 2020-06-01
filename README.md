@@ -28,7 +28,7 @@ I want to bring my unique skill set, drive and commitment to a workplace with co
 | Title | Description | Development Time-frame | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | **Moovli** [Heroku site](https://moovli.herokuapp.com/) [Github](https://github.com:AndreaDiotallevi/moovli.git) | A film suggestion app that allows you to find the best films across the world. Moovli allows users to interact with a map and click on a country and see some of the best films available. Created by a team of 4 with little to no previous experience of the tech stack. | 10 days | React, ESlint, Python | Jest & Enzyme |
-| **MyRecipes App** [Github](https://github.com/hishambokhari/MyRecipes-App)  | This is the most comprehensive command line app for managing your favorite recipes. Finding a recipe has never been easier! | 1 week |Ruby | Rails | MVC | Bootstrap | Gravatars | Associations | ActiveRecord |
+| **MyRecipes App** [Github](https://github.com/hishambokhari/MyRecipes-App)  | This is the most comprehensive command line app for managing your favorite recipes. Finding a recipe has never been easier! | 1 week |Ruby on Rails, MVC, Bootstrap, Gravatars, ActiveRecord |
 | **MakersBnb** [Github](https://github.com/EManifold/makersBnb-team6) | A full-stack application where you can authenticate, list & book spaces and request & refuse requests for a certain date. | 2 week |Ruby, Sinatra, JQuery, Active Record  | RSpec, Capybara |
 
 
