@@ -49,6 +49,11 @@ I am a highly resilient person, particularly demonstrated in my experiences and 
 
 # Experience
 
+#### CloudAsset (March 2020 - May 2020)
+Junior Backend Ruby on Rails Developer - Internship
+
+Assisted with breaking down **complex technical concepts** and ideas to **non-technical clients**. Strong communication and understanding the need of the Product team and delivering those to the development team. Aiding the company executive with **delivering proposals** to potential clients.
+
 #### Fitness Cartel (June '18 - Sep 2019)
 Director
 
